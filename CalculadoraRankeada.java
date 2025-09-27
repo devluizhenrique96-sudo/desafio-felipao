@@ -23,7 +23,7 @@ public class CalculadoraRankeada {
         }
     }
 
-    // Nossas funções auxiliares continuam aqui, sem alteração!
+    // funções auxiliares 
     public static int calcularSaldo(int numVitorias, int numDerrotas) {
         return numVitorias - numDerrotas;
     }
